@@ -1,10 +1,7 @@
 TypeScript Union Type
 =====
 
-### Usage
-> npm start 
-
-    or Live Server extension to open src/index.html 
+    Usage: npm start, or Live Server extension to open src/index.html 
 
 ### Issue
 > Type '{ flex: number; **flexDirection**: string; }' is not assignable to type 'CSSProperties'.
