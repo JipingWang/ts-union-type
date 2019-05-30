@@ -35,6 +35,7 @@ export const App: React.FC = () => {
       <div>Div2 will report error, uncomment to see it.</div>
       <br/>
       <Div3 />
+      <br/>
       <Div4 />
     </div>
   );
