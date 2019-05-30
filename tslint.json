@@ -1,0 +1,8 @@
+{
+  "rules": {
+    "no-unused-variable": false,
+    "semicolon": [false, "never"],
+
+    "//": "workspace settings"
+  }
+}

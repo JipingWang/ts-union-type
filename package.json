@@ -1,0 +1,30 @@
+{
+  "name": "ts-check-union-type",
+  "version": "1.0.0",
+  "description": "Demo - using union type in TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx http-server ./src -o"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JipingWang/ts-union-type.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JipingWang/ts-union-type/issues"
+  },
+  "homepage": "https://github.com/JipingWang/ts-union-type#readme",
+  "dependencies": {
+    "@types/react": "^16.8.19",
+    "@types/react-dom": "^16.8.4",
+    "@types/systemjs": "^0.20.6",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
