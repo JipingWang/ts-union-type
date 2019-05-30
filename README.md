@@ -37,13 +37,15 @@ export const MyElemen = () => (<div style={style1}>styled MyElement</div>)
 // import ...
 interface Props extends WithStyles, RouteComponentProps{
 
+}
+
 const buildStyles = (theme: Theme):Record<string, CSSProperties> =>  ({
     main: {
         width: 'auto',
         // ...
     },
     // ...
-)
+})
 
 function Dashboard(props: Props) {
     const { classes } = props
