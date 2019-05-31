@@ -29,9 +29,9 @@ When you define a JSON object, the type or business model is in your head, but t
 Simple, just define the type of the JSON variable. Like,
 
 ```JavaScript
-import React, { CSSProperties } from "react";
+import React, { CSSProperties } from 'react'
 
-const style1: CSSProperties = { display: 'flex', flexDirection: "column" }
+const style1: CSSProperties = { display: 'flex', flexDirection: 'column' }
 
 export const MyElement = () => (<div style={style1}>styled MyElement</div>)
 ```
